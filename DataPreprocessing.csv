@@ -1,11 +1,11 @@
-﻿Region,Age,Income,Online Shopper
-India,49,86400,No
-Brazil,32,57600,Yes
-USA,35,64800,No
-Brazil,43,73200,No
-USA,45,,Yes
-India,40,69600,Yes
-Brazil,,62400,No
-India,53,94800,Yes
-USA,55,99600,No
-India,42,80400,Yes
+﻿Region,Age,Salary,purchased
+France,49,72000,No
+Spain,32,48000,Yes
+Germany,35,54000,No
+Spain,43,61000,No
+Germany,45,,Yes
+France,40,58000,Yes
+Spain,,52000,No
+France,53,72000,Yes
+Germany,55,83000,No
+France,42,67000,Yes
